@@ -17,7 +17,9 @@ public class TestingGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Removed all");
-         System.out.println("pull test");
+        System.out.println("Trying something new ");
+         
+ 
       
         
         
