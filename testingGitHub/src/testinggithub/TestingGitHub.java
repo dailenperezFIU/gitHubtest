@@ -18,7 +18,7 @@ public class TestingGitHub {
         // TODO code application logic here
         System.out.println("Removed all previous changes ");
          System.out.println("Added a change ");
-         
+         System.out.println("New changes");
         
       
         
