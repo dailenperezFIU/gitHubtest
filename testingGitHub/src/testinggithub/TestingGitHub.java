@@ -18,7 +18,7 @@ public class TestingGitHub {
         // TODO code application logic here
         System.out.println("Hiiiiii");
          System.out.println("Bye");
-     
+         System.out.println("Great job! now checkout");
         
         
     }
