@@ -17,9 +17,7 @@ public class TestingGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hiiiiii");
-        System.out.println("Testing merge");
-        System.out.println("Testing checkout");
-        System.out.println("New branch!");
+     
         
         
     }
